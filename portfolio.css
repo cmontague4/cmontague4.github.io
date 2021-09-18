@@ -1,5 +1,5 @@
 body {
-  background:rgb(116,199,244),url(myBackground.jpg) no-repeat cover;
+  background:rgb(116,199,244) repeat center, url(myBackground.jpg) no-repeat cover;
 }
 div {
   text-align:center;
