@@ -1,7 +1,5 @@
-#site-banner {
-  width:50%;
+div {
   margin:auto;
-  display:block;
 }
 table.center {
   margin-left:auto;
@@ -10,6 +8,7 @@ table.center {
 }
 h1 {
   text-align:center;
+  color:red;
 }
 p {
   text-align:center;
