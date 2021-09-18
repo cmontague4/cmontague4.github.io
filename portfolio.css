@@ -1,8 +1,5 @@
 body {
-  background-color:rgb(116,199,244);
-  background-image:url(myBackground.jpg);
-  background-repeat:no-repeat;
-  background-size:cover;
+  background: url(myBackground.jpg) no-repeat cover, rgb(116,199,244);
 }
 div {
   text-align:center;
@@ -19,5 +16,4 @@ p {
   text-align:center;
   margin-left:300px;
   margin-right:300px;
-  color:red;
 }
