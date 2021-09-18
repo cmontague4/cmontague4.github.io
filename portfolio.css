@@ -1,8 +1,13 @@
-body {
-  text-align:center;
-  width:800;
+.center {
+  margin-left:auto;
+  margin-right:auto;
 }
 table.center {
   margin-left:auto;
   margin-right:auto;
+  width:800;
+}
+.content {
+  margin:0 auto;
   width:750;
+}
