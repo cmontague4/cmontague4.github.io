@@ -1,3 +1,6 @@
+body {
+  background-image:url("myBackground.jpg");
+}
 div {
   text-align:center;
 }
