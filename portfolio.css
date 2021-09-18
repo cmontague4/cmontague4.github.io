@@ -1,3 +1,7 @@
+#banner {
+  display:block;
+  text-align:center;
+}
 table.center {
   margin:auto;
   width:780;
