@@ -1,7 +1,9 @@
 body {
   text-align:center;
-  margin-left:300px;
-  margin-right:300px;
+}
+p {
+  margin left:300px;
+  margin right300px;
 }
 table.center {
   margin-left:auto;
