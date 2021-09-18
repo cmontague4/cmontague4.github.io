@@ -1,6 +1,8 @@
 body {
-  width:50%;
   text-align:center;
+}
+.content {
+  widht:50%
 }
 table.center {
   margin-left:auto;
