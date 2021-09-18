@@ -1,8 +1,8 @@
 body {
+  background-image:url(myBackground.jpg);
+  background-repeat:no-repeat;
+  background-size:cover;
   background-color:rgb(116,199,244);
-}
-p {
-  color:purple;
 }
 div {
   text-align:center;
