@@ -1,14 +1,15 @@
 #banner {
+  width:800px;
+  margin:auto;
   display:block;
-  text-align:center;
 }
 table.center {
-  margin:auto;
-  width:780;
+  margin-left:auto;
+  margin-right:auto;
+  width:780px;
 }
 h1 {
   text-align:center;
-  color:blue;
 }
 p {
   text-align:center;
