@@ -1,5 +1,7 @@
 body {
-  background:url(myBackground.jpg) no-repeat cover;
+  background-image:url(myBackground.jpg);
+  background-repeat:no-repeat;
+  background-size:cover;
 }
 div {
   text-align:center;
@@ -16,5 +18,4 @@ p {
   text-align:center;
   margin-left:300px;
   margin-right:300px;
-  color:green;
 }
