@@ -16,3 +16,6 @@ p {
   margin-left:300px;
   margin-right:300px;
 }
+th {
+  font-weight:normal;
+}
